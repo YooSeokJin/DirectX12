@@ -10,8 +10,6 @@ $RECYCLE.BIN/
 *.suo
 *.ntvs*
 *.njsproj
-*.vcxproj*
-*.vcxproj.filters
 *.VC.db
 *.opendb
 *.user
