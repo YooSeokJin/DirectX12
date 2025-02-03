@@ -1,0 +1,86 @@
+# Windows 관련
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Visual Studio 관련
+.vs/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.vcxproj*
+*.vcxproj.filters
+*.VC.db
+*.opendb
+*.user
+*.cache
+*.pdb
+*.ilk
+*.idb
+*.tlog
+*.log
+*.ipch
+*.o
+*.obj
+*.sdf
+*.ncb
+*.aps
+*.res
+*.exp
+*.lib
+*.dll
+*.exe
+*.bak
+*.bsc
+*.dmp
+
+# DirectX 관련
+*.cso  # 컴파일된 셰이더 오브젝트
+*.hlsli  # 셰이더 포함 파일
+*.fx  # DirectX FX 효과 파일
+*.fxc  # FXC 컴파일 결과물
+*.ps  # 픽셀 셰이더
+*.vs  # 버텍스 셰이더
+*.gs  # 지오메트리 셰이더
+*.hs  # 헐 셰이더
+*.ds  # 도메인 셰이더
+*.cs  # 컴퓨트 셰이더
+
+# 빌드 아티팩트 및 중간 파일
+Debug/
+Release/
+x64/
+x86/
+ARM/
+ARM64/
+build/
+bin/
+obj/
+ipch/
+out/
+
+# CMake 관련
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# 기타 IDE 관련
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.ninja_log
+*.ninja_deps
+*.VSCodeCounter
+*.VSCodeCounter.json
+
+# 로그 및 임시 파일
+*.log
+*.tmp
+*.temp
+*.cache
+*.swp
+*.swo
+*.DS_Store
